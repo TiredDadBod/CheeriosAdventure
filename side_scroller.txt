@@ -1,0 +1,13 @@
+This will be the first side scroller I am going to make alone, again with minimal help.
+
+The objective of the game will be similar to that of Mario or Sonic with an additional objective.
+Tasks that need to be completed:
+-Create background image for side scroller
+-Create character for game
+    - Ensure character can move left and right and jump
+-Create obstacles to jump on and over
+-Create enemies to avoid and possibly defeat
+    -Optional: Give enemies attack capabilities
+-Set main objective
+    -Ensure there is an end to finish attack
+    -Set either ranking system or Pass/Fail system
